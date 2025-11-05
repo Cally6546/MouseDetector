@@ -1,0 +1,19 @@
+# Build folders
+/build/
+/CMakeFiles/
+/CMakeCache.txt
+/*.cmake
+
+# Executables
+*.exe
+*.out
+*.a
+*.so
+*.dylib
+
+# IDE files
+*.vscode/
+*.idea/
+*.user
+*.suo
+*.log
